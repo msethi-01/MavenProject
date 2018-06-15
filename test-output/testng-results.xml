@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-06-14T14:15:35Z" name="Default suite" finished-at="2018-06-14T14:16:30Z" duration-ms="55677">
+    <groups>
+    </groups>
+    <test started-at="2018-06-14T14:15:35Z" name="Default test" finished-at="2018-06-14T14:16:30Z" duration-ms="55677">
+      <class name="com.ap.testcase.ProductPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ap.testcase.ProductPageTest@6db9f5a4]" started-at="2018-06-14T19:45:35Z" name="setup" finished-at="2018-06-14T19:45:59Z" duration-ms="24355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test1()[pri:0, instance:com.ap.testcase.ProductPageTest@6db9f5a4]" started-at="2018-06-14T19:45:59Z" name="Test1" finished-at="2018-06-14T19:46:30Z" duration-ms="30671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ap.testcase.ProductPageTest@6db9f5a4]" started-at="2018-06-14T19:46:30Z" name="teardown" finished-at="2018-06-14T19:46:30Z" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ap.testcase.ProductPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
